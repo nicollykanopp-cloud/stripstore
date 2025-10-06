@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+:root{
+--roxo-escuro: #5a189aff;
+--roxo: #7b2cbfff;
+--roxo-claro: #9d4eddff;
+--branco: #ffffffff;
+--titulo: "Caprasimo", serif;
+--texto: "EB Garamond", serif;
+}
+
+body{
+    background-color: var(--roxo-claro);
+    font-family: var(--texto)
+}
